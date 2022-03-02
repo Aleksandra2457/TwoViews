@@ -30,7 +30,6 @@
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="JUY-8d-vlb" secondAttribute="trailing" constant="20" id="8Nc-1G-qQs"/>
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="vvB-y5-gWF" secondAttribute="trailing" constant="20" id="DiQ-rX-NZx"/>
                             <constraint firstItem="vvB-y5-gWF" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="20" id="FMF-if-Woc"/>
-                            <constraint firstItem="JUY-8d-vlb" firstAttribute="width" secondItem="vvB-y5-gWF" secondAttribute="width" id="Fo4-T0-c3p"/>
                             <constraint firstItem="JUY-8d-vlb" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="20" id="IW2-FR-vYX"/>
                             <constraint firstItem="JUY-8d-vlb" firstAttribute="height" secondItem="vvB-y5-gWF" secondAttribute="height" id="Sxo-nZ-XKt"/>
                             <constraint firstItem="JUY-8d-vlb" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="20" id="VM2-uR-xae"/>
